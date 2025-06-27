@@ -1,2 +1,0 @@
-# skyvex.html
-SKYVEX
